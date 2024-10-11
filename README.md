@@ -1,7 +1,8 @@
 # InsightEd-Analyzing-Student-Success
 Discover key factors influencing student performance through data analysis and visualization. Explore gender, parental education, sports, and ethnicity impacts.
 
-![Project_Flow drawio](https://github.com/user-attachments/assets/1c3e09ea-a83c-441b-9964-233f704cac17)
+![Project_Flow drawio](https://github.com/user-attachments/assets/4630fc23-461e-4aa3-bfb2-c0e114f38c6b)
+
 
 # Steps perform in this project
 
